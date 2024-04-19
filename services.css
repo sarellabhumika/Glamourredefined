@@ -1,0 +1,258 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+.img-fluid {
+    position: relative;
+    text-align: center;
+    color: black;
+
+    img {
+        width: 100%;
+        height: 550px;
+    }
+}
+
+.img-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-weight: 800;
+}
+@media(max-width:76px)
+{
+p
+{
+    font-size: 5px;
+}
+.img-face-makeup{
+    font-size: 5px;
+}
+}
+@media(min-width:768px) and (max-width:1023px)
+{
+    .users-feedback{
+        font-size: 15px;
+    }
+    .img-face-makeup{
+        font-size: 60px;
+    }
+   
+    .navv
+    {
+        margin-left: 346px;
+    }
+}
+.img-feed {
+    position: relative;
+    text-align: center;
+    color: black;
+
+    img {
+        width: 100%;
+        height: 550px;
+    }
+}
+
+.img-title-one {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-weight: 800;
+    color:#F1916D;
+}
+
+.feedback {
+    /* opacity: 0.7; */
+
+}
+
+.users-feedback {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    font-weight: 400;
+    color: white;
+}
+.bii 
+{
+    margin-left: 80px;
+}
+@media(max-width:767px){
+    /* .bbii-title{
+        font-size: 4px;
+    } */
+    .bii 
+    {
+        margin-left: 35px;
+    }
+    .users-feedback{
+        font-size: 10px;
+    }
+}
+.maa-feedback{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
+
+@media(max-width:769px){
+    .maa-feedback{
+        font-size: 8px;
+    }
+}
+
+.bestvalue {
+    color: #F1916D;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.pricing {
+    color:white;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 400;
+}
+.drop li a:hover
+{
+background-color: red;
+}
+
+.formone {
+    
+    width: 230px;
+    height: 350px;
+
+
+}
+
+.form {
+    border: 2px solid rgb(135, 134, 137);
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    /* margin-left: 200px; */
+    box-shadow: 10px 10px 5px lightsalmon;
+    margin-bottom: 100px;
+
+}
+
+.plan {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 30px;
+    color: white;
+}
+
+.cost {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: #F1916D;
+}
+.btn{
+    /* margin-left: 50px; */
+}
+.btn:hover{
+    background: black;
+}
+.img-face-makeup{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* font-size: 60px; */
+    /* font-weight: 800; */
+    color: white;
+}
+.face-makeup-services{
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #F1916D;
+}
+.face-makeup-card{
+    /* width: 450px; */
+    
+}
+.read-more{
+    /* margin-left: 100px; */
+    background: #F1916D;
+}
+.face-makeup{
+    margin-left: 180px;
+}
+.img-fluidone {
+    position: relative;
+    text-align: center;
+    color: black;
+
+    img {
+        width: 100%;
+        height: 550px;
+    }
+}
+
+
+
+.img-hair-makeup{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    /* font-size: 60px;
+    font-weight: 800; */
+    color: white;
+}
+.hair-services{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: #F1916D;
+}
+
+.contact
+{
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+@media(max-width:767px)
+{
+    .contact
+    {
+    margin-top:14px;
+    font-size: 15px;
+    }
+    .join
+    {
+     margin-left: 90px;
+    }
+}
+@media(min-width:768px) and (max-width: 1023px)
+{
+    .contact
+    {
+        margin-top: 50px;
+
+    }
+    .navv
+    {
+        margin-left: 346px;
+    }
+}
